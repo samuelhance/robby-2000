@@ -81,7 +81,7 @@ BACK_UP_TIME = 500
 // turn calibration; raise it if turns come up short
 MS_PER_DEGREE = 6
 // medium
-TRUNDLE_SPEED = 30
+TRUNDLE_SPEED = 40
 REVERSE_SPEED = 10
 TURN_SPEED = 20
 enum Phase {
