@@ -73,7 +73,7 @@ let MS_PER_DEGREE = 0
 let BACK_UP_TIME = 0
 // Tuning constants.
 // cm — anything this close counts as an obstacle
-let OBSTACLE_DISTANCE = 50
+let OBSTACLE_DISTANCE = 30
 // consecutive close readings before we believe it
 let OBSTACLE_HITS_NEEDED = 2
 // ms of reversing before turning
